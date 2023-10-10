@@ -52,3 +52,7 @@ body{ /* background color white (#88D8ED) and text color dark gray (#666666).*/
     background-color: white;
     box-shadow: 5px 5px 5px #333333;
   }
+
+  img{
+    margin-bottom:50px;
+  }
